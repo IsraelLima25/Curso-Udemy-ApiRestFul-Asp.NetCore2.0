@@ -1,0 +1,14 @@
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\bin\Debug\netcoreapp2.1\CrudRestAspNetCore.deps.json
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\bin\Debug\netcoreapp2.1\CrudRestAspNetCore.runtimeconfig.json
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\bin\Debug\netcoreapp2.1\CrudRestAspNetCore.runtimeconfig.dev.json
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\bin\Debug\netcoreapp2.1\CrudRestAspNetCore.dll
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\bin\Debug\netcoreapp2.1\CrudRestAspNetCore.pdb
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.RazorAssemblyInfo.cache
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.RazorAssemblyInfo.cs
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.AssemblyInfoInputs.cache
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.AssemblyInfo.cs
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.dll
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.pdb
+C:\Users\israe\source\repos\CrudRestAspNetCore\CrudRestAspNetCore\obj\Debug\netcoreapp2.1\CrudRestAspNetCore.csprojAssemblyReference.cache
